@@ -1,67 +1,80 @@
-<div align="center">
+<!-- HEADER SECTION -->
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://avatars.githubusercontent.com/u/placeholder" width="180" style="border-radius:50%;" />
+    </td>
+    <td width="70%">
+      <h1>Hi 👋, I'm Gurveer</h1>
+      <h3>Network & Systems Administrator | Cloud & Security Enthusiast</h3>
 
-<img src="YOUR_PROFILE_IMAGE_URL" width="180" style="border-radius:50%">
+      <p>
+        🎯 Passionate about building secure, scalable, real-world IT infrastructures<br>
+        ☁️ Hands-on with Azure, Windows Server, Cisco Networking<br>
+        🔐 Focused on Security, Networking & Cloud Administration<br>
+        🚀 Always learning and building lab projects
+      </p>
 
-# Syed Safiullah  
-### Networking & Systems Student  
-
-Aspiring Network & Systems Administrator passionate about designing, implementing and securing reliable IT infrastructures.  
-Hands-on with Cisco networking, Windows Server and Azure. Building real-world lab projects and continuously learning.
-
-📍 Ontario, Canada | 📧 safixxullah@gmail.com  
-
----
-
-</div>
-
-## 📌 ABOUT ME
-- Computer Science student focused on Networking & Systems  
-- Hands-on with Cisco Networking, Windows Server & Azure  
-- Building and documenting lab projects  
-- Open to internships and new opportunities  
-
----
-
-## ⚙️ TECH STACK
-**Cisco Networking | Windows Server | Azure | Linux | Security+**  
-**Routing & Switching | VLAN | DHCP | DNS | TCP/IP**
+      <p>
+        📍 Ontario, Canada<br>
+        📧 Contact: your-email@example.com
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📁 FEATURED REPOSITORIES
+## 🚀 Skills & Tools
 
-**Network-Labs**  
-Cisco networking lab configurations and topologies  
-⭐ 12  
+### Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0052CC?style=for-the-badge)
 
-**Windows-Server-Labs**  
-AD, DHCP, DNS and Group Policy labs  
-⭐ 8  
+### Cloud
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Azure-Labs**  
-Microsoft Azure practice labs and deployments  
-⭐ 5  
+### Systems
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📊 GITHUB STATS
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedSafiullah&show_icons=true&theme=tokyonight)
+### Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📚 CURRENTLY LEARNING
-- Advanced Routing & Switching  
-- Azure Administration  
-- Cybersecurity (Security+)  
-- Python for Automation  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔗 CONNECT WITH ME
-- GitHub: github.com/SyedSafiullah  
-- LinkedIn: linkedin.com/in/syedsafiullah  
-- Email: safixxullah@gmail.com  
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> “The best way to predict the future is to build it.” – Peter Drucker
+## 💡 About Me
+
+- 🔧 I build networking labs (Cisco, GNS3, VLANs, routing)
+- ☁️ I explore Azure cloud infrastructure
+- 🧠 I enjoy solving system & network problems
+- 📚 Currently improving my cloud + security skills
+
+---
